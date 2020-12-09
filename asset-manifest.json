@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/advanced-caro-admin/static/js/main.e5de8862.chunk.js",
-    "main.js.map": "/advanced-caro-admin/static/js/main.e5de8862.chunk.js.map",
+    "main.js": "/advanced-caro-admin/static/js/main.b1b21c80.chunk.js",
+    "main.js.map": "/advanced-caro-admin/static/js/main.b1b21c80.chunk.js.map",
     "runtime-main.js": "/advanced-caro-admin/static/js/runtime-main.0f6b3d84.js",
     "runtime-main.js.map": "/advanced-caro-admin/static/js/runtime-main.0f6b3d84.js.map",
     "static/js/2.84833b97.chunk.js": "/advanced-caro-admin/static/js/2.84833b97.chunk.js",
@@ -13,6 +13,6 @@
   "entrypoints": [
     "static/js/runtime-main.0f6b3d84.js",
     "static/js/2.84833b97.chunk.js",
-    "static/js/main.e5de8862.chunk.js"
+    "static/js/main.b1b21c80.chunk.js"
   ]
 }
